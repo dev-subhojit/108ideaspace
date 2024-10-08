@@ -1,4 +1,4 @@
-## How to Implement It on your local enviromnemnt?
+## How to Implement it on your local environment?
 
 ### Step 1: Clone the Repository
 
