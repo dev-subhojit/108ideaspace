@@ -19,7 +19,7 @@ Create a new MySQL database named **101** using your preferred database manageme
 Open the config.php file located in the root folder of your project. Change the database access settings to match your local environment:
 
 ### Step 5: Import the SQL File
-Import the SQL file named ** 101.sql **(located in the root folder) into your local MySQL database.
+Import the SQL file named **101.sql**(located in the root folder) into your local MySQL database.
 
 ### Step 6: Run the Site
 
